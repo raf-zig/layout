@@ -1,0 +1,38 @@
+h1 {
+	color: red;
+}
+img {
+	width: 150px;
+}
+h2 {
+	border: 2px solid green;
+	background: green; 
+	color: white;
+}
+.sp {
+	margin-top: 100px 
+}
+.sp span {
+	color: red;
+}
+li {
+	border: 1px solid black;
+}
+.p {
+	
+	margin-left: 100px;
+}
+.h {
+	padding-bottom: 50px;
+	padding-top:  50px; 
+}
+
+
+.p1 {
+	background: blue; 
+	color: white;
+	width: 100px;
+}
+ul {
+	font-size: 30px
+}
